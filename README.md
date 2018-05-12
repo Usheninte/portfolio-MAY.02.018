@@ -230,7 +230,7 @@
     </div>
   </div>
   <div class="container-fluid text-center">
-   <div>
+   <div class="jumbotron">
      <h5>Also, I won the award for LEAD CITY UNIVERSITY</h5>
      <h4>IT / Tech Person of the Year 2018</h4>
      <h5><a href="https://usheninte.github.io/self/" alt="Link Here">Link Here</a></h5>
