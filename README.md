@@ -233,7 +233,7 @@
    <div style="background-color: #c0c0c0" class="jumbotron">
      <h4>Also, I won the award for LEAD CITY UNIVERSITY</h4>
      <h4>IT / Tech Person of the Year 2018</h4>
-     <h4><a href="https://usheninte.github.io/self/" alt="Link Here">Link Here</a></h4>
+     <h4 style="color: #5d5d5d"><a href="https://usheninte.github.io/self/" alt="Link Here">Link Here</a></h4>
    </div>
   </div>
   <div class="text-center">
