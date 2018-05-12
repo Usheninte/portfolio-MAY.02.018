@@ -229,6 +229,13 @@
       <h2>Hello there. Do feel free to contact me through any of the Social Media links provided above. I will try my best to respond in the soonest. <span id="bye">Carpe Noctem!</span> Stay wonderful.</h2>
     </div>
   </div>
+  <div class="container-fluid text-center">
+   <div>
+     <h5>Also, I won the award for LEAD CITY UNIVERSITY</h5>
+     <h4>IT / Tech Person of the Year 2018</h4>
+     <h5><a href="https://usheninte.github.io/self/" alt="Link Here">Link Here</a></h5>
+   </div>
+  </div>
   <div class="text-center">
     <h4>@Usheninte</h4>
     <h5>All Rights Reserved.</h5>
