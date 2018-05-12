@@ -227,12 +227,14 @@
   <div id="contact" class="container-fluid text-center">
     <div class="jumbotron">
       <h2>Hello there. Do feel free to contact me through any of the Social Media links provided above. I will try my best to respond in the soonest. <span id="bye">Carpe Noctem!</span> Stay wonderful.</h2>
+      <br />
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/aEtqrjVop-Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
   </div>
   <div class="container-fluid text-center">
    <div style="background-color: #c0c0c0" class="jumbotron">
-     <h4>Also, I won the award for LEAD CITY UNIVERSITY</h4>
-     <h4>IT / Tech Person of the Year 2018</h4>
+     <h4>Also, I won the award for <em>LEAD CITY UNIVERSITY</em></h4>
+     <h4><em>IT / Tech Person</em> of the Year <em>2018</em></h4>
      <br /> <br />
      <h4 style="color: #5d5d5d"><a href="https://usheninte.github.io/self/" alt="Link Here">Link Here</a></h4>
    </div>
