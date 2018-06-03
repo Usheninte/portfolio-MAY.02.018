@@ -166,7 +166,7 @@
         <div class="col-xs-12">
           <div class="col-xs-2"></div>
           <div class="col-xs-8 text-center">
-            <img class="img-responsive" src="http://res.cloudinary.com/poetrique/image/upload/c_scale,w_700/v1525219580/freeCodeCamp/portfolio/h_web.png" alt="Portfolio" />
+            <!-- <img class="img-responsive" src="http://res.cloudinary.com/poetrique/image/upload/c_scale,w_700/v1525219580/freeCodeCamp/portfolio/h_web.png" alt="Portfolio" /> -->
           </div>
           <div class="col-xs-2"></div>
         </div>
@@ -236,7 +236,7 @@
      <h4>Also, I won the award for <em>LEAD CITY UNIVERSITY</em></h4>
      <h4><b>IT / Tech Person</b> of the Year <b>2018</b></h4>
      <br /> <br />
-     <h4 style="color: #5d5d5d"><a href="https://usheninte.github.io/self/" alt="Link Here">Link Here</a></h4>
+     <h4 style="color: #5d5d5d"><a href="https://usheninte.github.io/self/" alt="Link Here"><em>Link Here</em></a></h4>
    </div>
   </div>
   <div class="text-center">
