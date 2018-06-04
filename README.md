@@ -218,8 +218,8 @@
       </div>
       <div class="row">
         <div class="col-xs-2"></div>
-        <div class="col-xs-4"><h1><a href="https://www.linkedin.com/in/usheninte/" target="_blank"><span class="fa fa-linkedin fa-3x"></span></a></h1></div>
-        <div class="col-xs-4"><h1><a href="https://medium.com/@Usheninte" target="_blank"><span class="fa fa-medium fa-3x"></span></a></h1></div>
+        <div class="col-xs-8"><h1><a href="https://www.linkedin.com/in/usheninte/" target="_blank"><span class="fa fa-linkedin fa-3x"></span></a></h1></div>
+        <!-- <div class="col-xs-4"><h1><a href="https://medium.com/@Usheninte" target="_blank"><span class="fa fa-medium fa-3x"></span></a></h1></div> -->
         <div class="col-xs-2"></div>
       </div>
     </div>
