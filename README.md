@@ -9,6 +9,10 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <!-- FontAwesome CDN -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Animate CSS -->
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
+  <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Karma|Pridi" rel="stylesheet">
   <style>
     #navbar {
@@ -109,7 +113,7 @@
           <p>I am open to innovative and stimulating experiences.</p>
         </div>
         <div class="col-xs-12 col-sm-4">
-          <img class="img-responsive" src="http://res.cloudinary.com/poetrique/image/upload/c_scale,w_400/v1525223639/freeCodeCamp/portfolio/mark-of-usheninte.png" />
+          <img class="animated slideInRight img-responsive" src="http://res.cloudinary.com/poetrique/image/upload/c_scale,w_400/v1525223639/freeCodeCamp/portfolio/mark-of-usheninte.png" />
         </div>
       </div>
     </div>
