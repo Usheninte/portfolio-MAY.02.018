@@ -113,7 +113,7 @@
           <p>I am open to innovative and stimulating experiences.</p>
         </div>
         <div class="col-xs-12 col-sm-4">
-          <img class="animated slideInRight img-responsive" src="http://res.cloudinary.com/poetrique/image/upload/c_scale,w_400/v1525223639/freeCodeCamp/portfolio/mark-of-usheninte.png" />
+          <img class="img-responsive" src="http://res.cloudinary.com/poetrique/image/upload/c_scale,w_400/v1525223639/freeCodeCamp/portfolio/mark-of-usheninte.png" />
         </div>
       </div>
     </div>
@@ -216,13 +216,13 @@
       </div>
       <div class="row">
         <div class="col-xs-2"></div>
-        <div class="col-xs-4"><h1><a href="https://github.com/Usheninte" target="_blank"><span class="fa fa-github fa-3x"></span></a></h1></div>
-        <div class="col-xs-4"><h1><a href="https://twitter.com/Usheninte" target="_blank"><span class="fa fa-twitter fa-3x"></span></a></h1></div>
+        <div class="col-xs-4"><h1><a href="https://github.com/Usheninte" target="_blank"><span class="animated slideInRight fa fa-github fa-3x"></span></a></h1></div>
+        <div class="col-xs-4"><h1><a href="https://twitter.com/Usheninte" target="_blank"><span class="animated slideInRight fa fa-twitter fa-3x"></span></a></h1></div>
         <div class="col-xs-2"></div>
       </div>
       <div class="row">
         <div class="col-xs-2"></div>
-        <div class="col-xs-8"><h1><a href="https://www.linkedin.com/in/usheninte/" target="_blank"><span class="fa fa-linkedin fa-3x"></span></a></h1></div>
+        <div class="col-xs-8"><h1><a href="https://www.linkedin.com/in/usheninte/" target="_blank"><span class="animated slideInRight fa fa-linkedin fa-3x"></span></a></h1></div>
         <!-- <div class="col-xs-4"><h1><a href="https://medium.com/@Usheninte" target="_blank"><span class="fa fa-medium fa-3x"></span></a></h1></div> -->
         <div class="col-xs-2"></div>
       </div>
